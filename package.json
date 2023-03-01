@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "string.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amen-Musingarimi/testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amen-Musingarimi/testing/issues"
+  },
+  "homepage": "https://github.com/Amen-Musingarimi/testing#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
